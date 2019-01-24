@@ -1,0 +1,14 @@
+Django Instructions
+*******************************************************************************************************************************
+Always Use Github
+
+django-admin createproject "projectname"
+python manage.py startapp "app name"
+
+App is not like Skype etc. It is our set of code with wide specific function
+After creating App ,make sure to add app name in setings.py file. 
+
+By default django uses sqliye server
+
+We will use Virtual Environment
+
